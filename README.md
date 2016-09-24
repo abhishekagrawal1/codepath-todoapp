@@ -37,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-No found the work very easy to complete. All API used in the guides were available in android studio and Android SDK. I found guide extremely helpful and all concepts have explained quite clearly.
+No, found the work very easy to complete. All API used in the guides were available in android studio and Android SDK. I found guide extremely helpful and all concepts have been explained quite clearly.
 
 ## License
 
